@@ -1,4 +1,3 @@
-
 {
   "name": "XIMonitor",
   "version": "0.0.1",
@@ -71,6 +70,7 @@
     "fs": false
   },
   "dependencies": {
-    "extract-text-webpack-plugin": "^0.3.5"
+    "extract-text-webpack-plugin": "^0.3.5",
+    "jshint": "^2.7.0"
   }
 }
